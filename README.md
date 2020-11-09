@@ -10,4 +10,4 @@ Once the files are installed the syntax highlighting will be automatically enabl
 ## Example
 This example is using the colorscheme: [ayu](https://github.com/ayu-theme/ayu-vim) color version mirage
 
-[![example.png](https://i.postimg.cc/XYrDS6F3/example.png)](https://postimg.cc/JsWQZgPd)
+[![ayu-example.png](https://i.postimg.cc/Hn441BWQ/image-1.png)](https://postimg.cc/1VXNp0qt)

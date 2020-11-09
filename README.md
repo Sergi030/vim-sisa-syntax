@@ -2,8 +2,13 @@
 Vim syntax highlight for SISA (Simple Instruction Set Architecture) code
 
 ## Installation
-### Vundle
- Plugin 'Sergi030/vim-sisa-syntax'
+
+### [Vundle.vim](https://github.com/VundleVim/Vundle.vim)
+```vim
+call vundle#begin()
+Plugin 'Sergi030/vim-sisa-syntax'
+call vundle#end()
+```
 ## Usage
 Once the files are installed the syntax highlighting will be automatically enabled anytime you edit a .s or .sisa file.
 

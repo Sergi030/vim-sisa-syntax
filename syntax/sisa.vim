@@ -39,7 +39,7 @@ syn match sisaInclude "\.include" nextgroup=sisaString
 syn match sisaMacro "\$\S*"
 
 " Labels in sisa are like: something:
-syn match sisaLabel ".*:"
+syn match sisaLabel "^[A-Za-z ]*:"
 
 " We want to highlight the constants, in sisa can be decimal and hex numbers
 syn match sisaConstants "[0-9]\+"
